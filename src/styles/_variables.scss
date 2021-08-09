@@ -1,0 +1,54 @@
+$bg-primary-dark: #0c365a;
+$bg-primary: #325baf;
+$bg-primary-soft: #f5f9ff;
+$bg-accent: #01d167;
+$bg-accent-soft: #edfff5;
+
+$text-white: #ffffff;
+$text-accent: #01d167;
+$text-primary: #0c365a;
+
+$text-date-field: #aaaaaa;
+
+$text-family: Open Sans, sans-serif;
+
+$border-radius-sm: 4px;
+
+.flex {
+  display: flex;
+  align-items: center;
+}
+
+.flex-column {
+  flex-direction: column;
+}
+
+.flex-end {
+  justify-content: flex-end;
+}
+
+.flex-start-col {
+  align-items: flex-start;
+}
+
+.bg-primary {
+  background-color: $bg-primary;
+  color: $text-white;
+}
+
+.text-primary {
+  color: $text-primary;
+}
+
+.text-accent {
+  color: $text-accent;
+}
+
+.text-disabled {
+  color: #222222;
+  opacity: 30%;
+}
+
+.bold {
+  font-weight: bold;
+}
