@@ -38,7 +38,7 @@ import NavMenu from './NavMenu.vue'
     margin-top: 20px;
     font-size: 15px;
     line-height: 20px;
-    opacity:30%;
+    opacity:31%;
 }
 
 </style>
